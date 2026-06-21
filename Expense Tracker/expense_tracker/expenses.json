@@ -1,0 +1,14 @@
+{
+    "budget": {
+        "monthly_limit": 0.0
+    },
+    "expenses": [
+        {
+            "id": 1,
+            "amount": 150.0,
+            "category": "Food",
+            "description": "Bought Pizza",
+            "date": "2026-06-21"
+        }
+    ]
+}
